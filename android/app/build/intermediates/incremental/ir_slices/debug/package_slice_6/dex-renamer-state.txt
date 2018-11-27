@@ -1,0 +1,4 @@
+#Mon Nov 19 14:38:56 CST 2018
+base.0=/Users/maxueting/project/native/AwesomeProject/android/app/build/intermediates/transforms/dexMerger/debug/25
+path.0=classes.dex
+renamed.0=classes.dex

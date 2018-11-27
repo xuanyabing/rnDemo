@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Nov 19 14:32:23 CST 2018
+0.baseType=DIRECTORY
+0.base=/Users/maxueting/project/native/AwesomeProject/android/app/build/intermediates/assets/debug
+0.path=index.android.bundle
+0.set=ASSET
+count=1

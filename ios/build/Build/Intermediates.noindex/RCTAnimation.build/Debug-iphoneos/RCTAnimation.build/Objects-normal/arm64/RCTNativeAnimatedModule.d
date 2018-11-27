@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/maxueting/project/native/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.m \
+  /Users/maxueting/project/native/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedModule.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTBridgeModule.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTDefines.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTEventDispatcher.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTBridge.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTBridgeDelegate.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTJavaScriptLoader.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTFrameUpdate.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTInvalidating.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTEventEmitter.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTUIManager.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTRootView.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTViewManager.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTConvert.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTAnimationType.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTBorderStyle.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTLog.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTAssert.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTUtils.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTPointerEvents.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTTextDecorationLineType.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/yoga/Yoga.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/yoga/YGEnums.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/yoga/YGMacros.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/UIView+React.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTComponent.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTUIManagerObserverCoordinator.h \
+  /Users/maxueting/project/native/AwesomeProject/ios/build/Build/Products/Debug-iphoneos/include/React/RCTUIManagerUtils.h \
+  /Users/maxueting/project/native/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/maxueting/project/native/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/maxueting/project/native/AwesomeProject/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h

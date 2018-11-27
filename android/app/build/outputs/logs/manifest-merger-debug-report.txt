@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/ec2a689dbb3b789c8555f6fafb154cd9/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ba7a309273d05fa0b2e220d912e6a51e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ec8afd2ec7024322381bf4772c9830d3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f2a6ba30d72a0a6f859212992bf17443/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/97c2b3d6bd250407cfe0e52a4e03ffb3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/640ffb61f110819e998f6dd43649ef99/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/2f0838af6df711efdc66ca62f1b646fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7a02fa42df54972de2113963c05e1cc7/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/93a3ffab7f54361c83dfcee32aa241d4/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/cdacf00aa14e591204c6a4e11065c94d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/218e92a5b4a5802c76366a7c2c13b07a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/963f7091115745ba0c295d2216e3e8e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/35ae887eea5f3d880d218c436d6f6812/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/026ff3b1484d54789959dd80a048f710/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f4c7493d9929747af4a42442f15835c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d48feff9ff6ffd50e81b1aef0c9d0651/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b453ed2e9f878a993481ddc42cb7accb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d8d0e2f554cacf4fceaffc6111a3107b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/91ce0f23b1d425f20b005524478a4250/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5f164c6418bce6bc6c4ce35b79b87054/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/ec2a689dbb3b789c8555f6fafb154cd9/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/ec2a689dbb3b789c8555f6fafb154cd9/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/ec2a689dbb3b789c8555f6fafb154cd9/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/ec2a689dbb3b789c8555f6fafb154cd9/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7a02fa42df54972de2113963c05e1cc7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7a02fa42df54972de2113963c05e1cc7/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/93a3ffab7f54361c83dfcee32aa241d4/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/93a3ffab7f54361c83dfcee32aa241d4/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.awesomeproject.MainActivity
+ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/ec2a689dbb3b789c8555f6fafb154cd9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/react-native-0.57.4.aar/ec2a689dbb3b789c8555f6fafb154cd9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ba7a309273d05fa0b2e220d912e6a51e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ba7a309273d05fa0b2e220d912e6a51e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ec8afd2ec7024322381bf4772c9830d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/ec8afd2ec7024322381bf4772c9830d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f2a6ba30d72a0a6f859212992bf17443/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f2a6ba30d72a0a6f859212992bf17443/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/97c2b3d6bd250407cfe0e52a4e03ffb3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/97c2b3d6bd250407cfe0e52a4e03ffb3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/640ffb61f110819e998f6dd43649ef99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/640ffb61f110819e998f6dd43649ef99/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/2f0838af6df711efdc66ca62f1b646fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/2f0838af6df711efdc66ca62f1b646fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7a02fa42df54972de2113963c05e1cc7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/7a02fa42df54972de2113963c05e1cc7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/cdacf00aa14e591204c6a4e11065c94d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/cdacf00aa14e591204c6a4e11065c94d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/218e92a5b4a5802c76366a7c2c13b07a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/218e92a5b4a5802c76366a7c2c13b07a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/963f7091115745ba0c295d2216e3e8e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/963f7091115745ba0c295d2216e3e8e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/35ae887eea5f3d880d218c436d6f6812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/35ae887eea5f3d880d218c436d6f6812/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/026ff3b1484d54789959dd80a048f710/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/026ff3b1484d54789959dd80a048f710/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f4c7493d9929747af4a42442f15835c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f4c7493d9929747af4a42442f15835c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d48feff9ff6ffd50e81b1aef0c9d0651/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d48feff9ff6ffd50e81b1aef0c9d0651/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b453ed2e9f878a993481ddc42cb7accb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b453ed2e9f878a993481ddc42cb7accb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d8d0e2f554cacf4fceaffc6111a3107b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d8d0e2f554cacf4fceaffc6111a3107b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/91ce0f23b1d425f20b005524478a4250/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/91ce0f23b1d425f20b005524478a4250/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5f164c6418bce6bc6c4ce35b79b87054/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/maxueting/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5f164c6418bce6bc6c4ce35b79b87054/AndroidManifest.xml:20:5-44
+INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/maxueting/project/native/AwesomeProject/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
